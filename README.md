@@ -20,3 +20,9 @@ The summary of what we learnt are:
       1. data manipulation
 - SQL Server
 - Power BI
+
+### Data Analysis
+--- SQL
+SELECT A,B,C
+WHERE A> 50
+---
