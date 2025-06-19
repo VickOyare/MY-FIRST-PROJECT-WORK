@@ -26,3 +26,5 @@ The summary of what we learnt are:
 SELECT A,B,C
 WHERE A> 50
 ---
+### My Analysis
+
